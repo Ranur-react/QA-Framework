@@ -1,0 +1,22 @@
+{
+  "name": "mochalearn",
+  "version": "1.0.0",
+  "description": "simple app  for testing learn",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ranur-react/QA-Framework.git"
+  },
+  "keywords": [
+    "qa;tester;chai;selenium;mocha;developer"
+  ],
+  "author": "ranur_react",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ranur-react/QA-Framework/issues"
+  },
+  "homepage": "https://github.com/Ranur-react/QA-Framework#readme"
+}
